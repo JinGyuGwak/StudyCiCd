@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>Karina is G.O.D</h2>
+    <h2>고마츠 나나가 신이 아니면 뭔데</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
